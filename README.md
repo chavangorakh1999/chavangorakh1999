@@ -1,5 +1,4 @@
 # Hi there 👋,I am GORAKH.
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DEVELOPERS CLUB WEBSITE
 - 🌱 I’m currently learning React
